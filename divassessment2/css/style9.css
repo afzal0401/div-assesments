@@ -1,0 +1,39 @@
+div{
+    display: block;
+    float: left;
+}
+    
+.header{
+    height: 50px;
+    width: 100%;
+    background-color: yellowgreen;
+}
+.ads{
+    height: 100px;
+    width: 200px;
+    background-color: aquamarine;
+    margin-top: 10px;
+    
+    
+}
+.nav{
+    height: 480px;
+    width: 200px;
+    background-color: green;
+    margin-top: 10px;
+    clear: both;
+}
+.article{
+    height: 530px;
+    width: 1123px;
+    background-color: antiquewhite;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.footer{
+    height: 50px;
+    width: 1123px;
+    background-color:aquamarine;
+    margin-top: 10px;
+    margin-left: 10px;
+}

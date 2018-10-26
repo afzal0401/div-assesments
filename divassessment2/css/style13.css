@@ -1,0 +1,102 @@
+.header{
+    height: 60px;
+    width: 100%;
+    background-color: antiquewhite;
+
+}
+.left{
+    float: left;
+    width: 15%;
+}
+.nav{
+    height: 430px;
+    width: 200px;
+    background-color: antiquewhite;
+    margin-top: 10px;
+    
+}
+.right{
+    float: left;
+     width: 85%;
+    
+}
+.box1{
+    height: 100px;
+    width: 400px;
+    background-color: aquamarine;
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+    
+   
+}
+.box2{
+    height: 100px;
+    width: 700px;
+    background-color: aquamarine;
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+}
+
+.clear{
+    clear:both;
+}
+.box3{
+    height: 100px;
+    width: 700px;
+    background-color: aquamarine;
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+   
+}
+.box4{
+    height: 100px;
+    width: 400px;
+    background-color: aquamarine;
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+    
+}
+.clear{
+    clear:both;
+}
+
+.box5{
+    height: 100px;
+    width: 370px;
+    background-color: aquamarine;
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+    
+}
+.box6{
+    height: 100px;
+    width: 370px;
+    background-color: aquamarine;
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+}
+.box7{
+    height: 100px;
+    width: 360px;
+    background-color: aquamarine;
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+    
+}
+.clear{
+    clear:both;
+}
+.box8{
+    height: 100px;
+    width: 1120px;
+    background-color: aquamarine;
+    margin-top: 10px;
+    margin-left: 10px;
+}
