@@ -1,0 +1,42 @@
+.box1{
+    height: 100px;
+    width: 950px;
+    background-color: antiquewhite;
+    float: left;
+     border: 2px solid;
+}
+.box2{
+    height: 440px;
+    width: 360px;
+    background-color: aquamarine;
+    float: right;
+    margin-left: 10px;
+    border: 2px solid;
+}
+.box3{
+    height: 100px;
+    width: 467px;
+    background-color: aquamarine;
+    margin-top: 10px;
+    border: 2px solid;
+    float: left;
+}
+
+.box4{
+    height: 100px;
+    width: 467px;
+    background-color: aquamarine;
+    margin-top: 10px;
+    margin-left: 10px;
+    border: 2px solid;
+    float: left;
+}
+.footer{
+    height: 100px;
+    width: 1345px;
+    background-color: antiquewhite;
+    float: left;
+    border: 2px solid;
+    margin-top: 10px;
+    
+}
